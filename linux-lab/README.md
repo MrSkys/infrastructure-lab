@@ -28,9 +28,9 @@ Tasks completed:
 
 ![Nginx Status](images/nginx_up&running.png)
 
-![Nginx Setup]("images/set up file.png")
+![Nginx Setup](images/set%20up%20file.png")
 
-![Website]("images/nginx self-made page.png")
+![Website]("images/nginx%20self-made%20page.png")
 
 ## Troubleshootin
 
