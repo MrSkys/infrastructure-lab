@@ -17,6 +17,8 @@ Tasks completed:
 
 ![Nginx on docker](images/nginx_running_on_docker.png)
 
+As you can see the webpage is running on port 8080 which is our container
+
 ## Tasks to be done
 
 - save crutial parts on server(not container)
