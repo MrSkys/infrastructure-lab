@@ -11,9 +11,23 @@ The goal is to document practical tasks,configurations, and troubleshooting step
 - SSH Remote Access
 - Git & GitHub
 
-## Linux Server Setup
+# Linux Server Setup
+## Linux Bootstrap Script
 
+This script aoutomates the initial setup of an Ubuntu Sever by:
 
+- Updating the system
+- Installing git
+- Installing OpenSSH Server
+- Installing Docker Engine
+- Verifying docker installation
+
+### Usage 
+
+```bash
+chmod +x bootstrap.sh
+./bootstrap.sh
+```
 
 ## Nginx
 
