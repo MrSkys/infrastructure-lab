@@ -11,8 +11,8 @@ The goal is to document practical tasks,configurations, and troubleshooting step
 - SSH Remote Access
 - Git & GitHub
 
-# Linux Server Setup
-## Linux Bootstrap Script
+## Linux Server Setup
+### Linux Bootstrap Script
 
 This script aoutomates the initial setup of an Ubuntu Sever by:
 
