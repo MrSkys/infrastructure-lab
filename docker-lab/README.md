@@ -19,6 +19,8 @@ Tasks completed:
 
 ![Nginx on docker](images/nginx_running_on_docker.png)
 
+![Mongo Express web](images/mongoDB_containerized.png)
+
 As you can see the webpage is running on port 8080 which is our container
 
 ## Tasks to be done
