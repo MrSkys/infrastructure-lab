@@ -12,6 +12,8 @@ Tasks completed:
 - ran an nginx container 
 - connected port 8080 on laptop to port 80 ubuntu server
 - served a containerized static webpage
+- wrote a Docker-compose file (mongo.yaml)
+- lunched a mongo DataBase and mongo-express for web UI
 
 ![Docker run](images/docker_running.png)
 
@@ -21,5 +23,5 @@ As you can see the webpage is running on port 8080 which is our container
 
 ## Tasks to be done
 
-- save crutial parts on server(not container)
-- serve more complicated pages on a container
+- save crutial parts on server(not container) 
+- serve more complicated pages on a container | in progress
