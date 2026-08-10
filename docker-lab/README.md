@@ -34,8 +34,8 @@ IF we add a new user
 ![Working correctly](images/working_webApp.png)
 it updates
 
-
 ## Tasks to be done
 
-- save crutial parts on server(not container) 
-- serve more complicated pages on a container | in progress
+- save crutial parts on server(not container) DONE 
+- serve more complicated pages on a container | DONE
+- CI/CD 
