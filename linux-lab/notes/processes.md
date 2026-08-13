@@ -1,6 +1,6 @@
 PID
 numerical id for a process that is running either on foreground or background
-Process
+Process: 
 every application that is running or command a command that you execute is a process 
-Kill 
+Kill: 
 stops a process using it's PID.
