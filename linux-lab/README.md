@@ -46,7 +46,18 @@ Tasks completed:
 
 ![Website](images/nginx_custom_page.png)
 
-## Troubleshootin
+## Monitoring
+
+wrote a script to check disk space and write it on a log file
+optimized it with corn so it can run it every 5 minutes
+
+## Troubleshooting
+
+Problem: 
+Nginx didn't show page on laptop  
+
+Solution: 
+changed vmware settings to bridge
 
 ## SSH Authentication 
 
@@ -58,7 +69,7 @@ Configured SSH Keys and Verified GitHub authentication
 
 ## Next steps 
 
-- Docker contianers
-- Docker compose 
+- Docker contianers DONE
+- Docker compose DONE
 - ...
  
